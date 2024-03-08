@@ -1,0 +1,19 @@
+{
+  "name": "phase-2-project-wax-staxx-backend",
+  "version": "1.0.0",
+  "description": "json-server deployment for wax-staxx",
+  "main": "server.js",
+  "author": "pwangy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwangy/phase-2-project-wax-staxx-backend.git"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
