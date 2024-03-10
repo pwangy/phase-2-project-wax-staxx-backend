@@ -1,7 +1,7 @@
 {
 	"name": "phase-2-project-wax-staxx-backend",
-	"version": "1.0.0",
 	"description": "json-server for wax-staxx",
+	"version": "1.0.0",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
