@@ -110,7 +110,7 @@
     },
     {
       "id": "11",
-      "inCollection": true,
+      "inCollection": false,
       "artist": "Shakey Graves",
       "albumCover": "https://i.discogs.com/Vpv7rWSeY1xs1aGpakHtE8Vy--nvdRFvhTYaPzZmnSg/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/OTg3LTE0OTg3NTY3/MjctNjUxMy5qcGVn.jpeg",
       "title": "And The War Came",
@@ -146,7 +146,7 @@
     },
     {
       "id": "15",
-      "inCollection": true,
+      "inCollection": false,
       "artist": "Bad Company",
       "albumCover": "https://i.discogs.com/lMfRi3aMPSYqhZgzwmmEuwBAJYaZrKX4rmeN6HgApaI/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc4/ODUtMTI5NzU5Njkw/OC5qcGVn.jpeg",
       "title": "Bad Co",
@@ -233,33 +233,6 @@
       "title": "Cleopatra",
       "released": 2016,
       "label": "Dualtone"
-    },
-    {
-      "id": "28",
-      "inCollection": true,
-      "artist": "Michael Jackson",
-      "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Off_the_wall.jpg",
-      "title": "Off the Wall",
-      "released": 1979,
-      "label": "Epic"
-    },
-    {
-      "id": "29",
-      "inCollection": true,
-      "artist": "Michael Jackson",
-      "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Off_the_wall.jpg",
-      "title": "She's Out of My Life",
-      "released": 1979,
-      "label": "Epic"
-    },
-    {
-      "id": "30",
-      "inCollection": true,
-      "artist": "Michael Jackson",
-      "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Off_the_wall.jpg",
-      "title": "111",
-      "released": 1111,
-      "label": "111"
     }
   ]
 }
