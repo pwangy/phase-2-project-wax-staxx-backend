@@ -2,10 +2,13 @@
 	"name": "phase-2-project-wax-staxx-backend",
 	"description": "json-server for wax-staxx",
 	"version": "1.0.0",
+	"engines": {
+		"node": "21.5.0"
+	  },
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
-		"server": "json-server --watch db.json"
+		"server": "json-server db.json --port 4000"
 	},
 	"dependencies": {
 		"json-server": "^1.0.0-alpha.23"
